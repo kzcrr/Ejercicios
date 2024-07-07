@@ -6,4 +6,4 @@ En esta carpeta encontrarás ejercicios que realicé en materias de la universid
 On this folder you will find exercises that I made on university subjects. 
 
 
--Final Integrative work. It is a work done together with Melina Ibarra and Juan Castro Garcia as a final work of the subject Machine Learning for Social Sciences with Professor German Rosati.  Part of the databases used in this work were provided and made by German. It was about the use of PCA and Decision Trees to generate an indicator about the accessibility to health centers in Argentina and to understand which variables are determinant for its access.
+-Trabajo final integrador. It is a work done together with Melina Ibarra and Juan Castro Garcia as a final work of the subject Machine Learning for Social Sciences with Professor German Rosati.  Part of the databases used in this work were provided and made by German. It was about the use of PCA and Decision Trees to generate an indicator about the accessibility to health centers in Argentina and to understand which variables are determinant for its access.
