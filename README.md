@@ -2,7 +2,7 @@ ES/EN
 
 En esta carpeta encontrarás ejercicios que realicé en materias de la universidad. 
 
--Trabajo final Integrador. Es un trabajo realizado en conjunto con Melina Ibarra y Juan Castro Garcia como trabajo final de la materia Machine Learning para Ciencias Sociales junto al Profesor German Rosati.  Parte de las bases de datos utilizadas en dicho trabajo fueron proporcionadas y realizadas por German. Se trato de la utilización de PCA y Arboles de decision para generar un indicador sobre el accesibilidad a centros de salud en Argentina y comprender que variables son determinantes para su acceso.
+-Trabajo final Integrador. Es un trabajo realizado en conjunto con Melina Ibarra y Juan Castro Garcia como trabajo final de la materia Machine Learning para Ciencias Sociales junto al Dr. German Rosati.  Parte de las bases de datos utilizadas en dicho trabajo fueron proporcionadas y realizadas por German. Se trato de la utilización de PCA y Arboles de decision para generar un indicador sobre el accesibilidad a centros de salud en Argentina y comprender que variables son determinantes para su acceso.
 
 On this folder you will find exercises that I made on university subjects. 
 
